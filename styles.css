@@ -72,7 +72,7 @@ a {
 
 .heading{
     color: #ffff;
-    margin-left: 40%;
+    margin-left: 45%;
     margin-top: 50px;
     
 }
@@ -83,12 +83,27 @@ img{
     margin-top: 18%;
 }
  p {    
-    padding:3% 15%;
-    padding: 2rem;
+    padding:5% 15%;
+    margin-left: 20%;
+    margin-top:0;
+    padding: 1rem;
     color: #ffff;
     font-family: 'Roboto Slab', serif;
     line-height: 2;
- }   
+    
+ }  
+ ul li{
+       
+        padding:3% 15%;
+        margin-top: 0;
+        padding: 1rem;
+        color: #ffff;
+        font-family: 'Roboto Slab', serif;
+        line-height:1;
+        margin-left: 3%;
+   
+     } 
+ 
 h1{
     font-family: 'Rubik', sans-serif;
     margin-top: 18%;
@@ -100,6 +115,7 @@ h1{
 
 a{
    margin-left: 40%;
+   margin-top: 0;
 }
 
 
